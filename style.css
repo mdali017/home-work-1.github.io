@@ -216,8 +216,56 @@ input[type=text] {
     height: 400px;
     margin-left: -55%;
 }
-/*  */
-.section-four-left img{
+/* ----------------Section Five Style */
+.section-five {
+    display: flex;
+    margin-bottom: 80px;
+    /* background-color: red; */
+}
+
+.section-five-left {
+    margin-left: 13%;
+    margin-right: 7%;
+}
+.section-five-left img{
     width: 400px;
     height: 400px;
+    margin-top: 90px;
 }
+/* five right */
+.section-five-right{
+margin-left: 50px;
+margin-top: 50px;
+width: 482px;
+height: 374px;
+}
+.section-five-right h2 {
+    /* margin-left: 5%;
+    margin-right: 30%;
+    margin-bottom: 1px; */
+    /* margin-top: 70px; */
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.section-five-right p {
+    margin-left: 5%;
+    margin-right: 30%;
+    /* margin-top: 70px; */
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+.section-five-right button {
+    margin-left: 5%;
+    /* margin-right: 30%; */
+    /* margin-top: 70px; */
+    width: 230px;
+    height: 56px;
+}
+
+/* .section-four-right img {
+    width: 400px;
+    height: 400px;
+    margin-left: -55%;
+} */
