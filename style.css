@@ -269,3 +269,14 @@ height: 374px;
     height: 400px;
     margin-left: -55%;
 } */
+/* -----------------------------seven */
+.section-seven{
+    width: 809px;
+    height: 200px;
+    background: #FFF4D6;
+    margin-left: 20%;
+    border-radius: 6px;
+}
+.section-seven-items{
+    padding: 100px 250px;
+}
