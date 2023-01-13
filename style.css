@@ -99,3 +99,8 @@
     color: #707070;
 
 }
+input[type=text]{
+    border: none;
+    border-bottom: 1px solid lightgreen;
+    margin-bottom: 300px;
+}
