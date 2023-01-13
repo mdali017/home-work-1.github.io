@@ -103,4 +103,7 @@ input[type=text]{
     border: none;
     border-bottom: 1px solid lightgreen;
     margin-bottom: 300px;
+   margin-left: 30rem;
+   width: 300px;
+   text-align: center;
 }
