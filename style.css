@@ -54,7 +54,48 @@
     font-size: 16px;
     border: none;
 }
+
 .banner-right img {
     width: 490px;
     height: 503px;
+}
+
+/*------------------------------Section Two Style------------------------- */
+.section-title-two {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 15px;
+
+}
+
+.section-two-description {
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 26%;
+    margin-top: 10px;
+    width: 691px;
+    height: 50px;
+}
+
+.box {
+    
+    margin-left: 24%;
+    display: flex;
+
+}
+
+.box-1 {
+    border: 1px solid gray;
+    padding: 44px 23px;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #707070;
+
 }
